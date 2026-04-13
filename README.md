@@ -1,17 +1,41 @@
-Trabalho 1 Mobile - ADSIS 5S
+#  Trabalho de Dispositivos Móveis 1 - ADSIS 5S
 
-Aluna: Gabriela Mendes 
+##  Trabalho 1 — Hello World em Dart
 
+## ℹ️ Informações:
 
-Descrição do objetivo da atividade:
+Aluna: Gabriela S. Mendes
 
+Turma: ADSIS 5 semestre
+
+Máteria: Programação para Dispositivos Móveis
+
+Faculdade: UniCesumar
+
+## 📌 Descrição
 Essa atividade tem como objetivo a criação de um projeto simples em Dart onde contém um programa que imprime a mensagem "Hello World" no terminal.
 Executar programas Dartutilizar Git e GitHub
 Documentar um projeto simples.
 
-Instruções para executar o programa:
+## 🎯 Objetivos
+- Instalar e configurar o Dart
+- Executar código via terminal
+- Entender a estrutura básica de um programa
 
+## 🎥 Vídeo demonstrativo
 
-Exemplo da saída do programa no terminal:
+👉 [Coloque aqui o link]
 
-Hello World
+## ▶️ Como executar
+
+Instale o Dart
+Clone o repositório
+Execute no terminal:
+
+## 💻 Código exemplo
+
+```dart
+void main() {
+  print("Hello World");
+}
+
