@@ -22,15 +22,11 @@ Documentar um projeto simples.
 - Executar código via terminal
 - Entender a estrutura básica de um programa
 
-## 🎥 Vídeo demonstrativo
-
-👉 [Coloque aqui o link]
-
 ## ▶️ Como executar
 
-Instale o Dart
-Clone o repositório
-Execute no terminal:
+- Instale o Dart
+- Clone o repositório
+- Execute no terminal
 
 ## 💻 Código exemplo
 
